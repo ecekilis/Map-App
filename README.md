@@ -13,3 +13,6 @@ This repository contains a web application that allows users to add notes to spe
 - **HTML**
 - **CSS**
 - **JavaScript**
+
+
+![](mapnotes.gif)
